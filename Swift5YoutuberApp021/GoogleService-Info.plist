@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>108158381308-hin2ljujf8u1bp60rb24me36mvus546a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.108158381308-hin2ljujf8u1bp60rb24me36mvus546a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgnGt0wl-CKlhNe36DQCk-mIk1fOuDAdE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>108158381308</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nifty.cbm01799.Swift5YoutuberApp021</string>
+	<key>PROJECT_ID</key>
+	<string>omega-post-288812</string>
+	<key>STORAGE_BUCKET</key>
+	<string>omega-post-288812.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:108158381308:ios:93d0a95dc555aa9853bb79</string>
+	<key>DATABASE_URL</key>
+	<string>https://omega-post-288812.firebaseio.com</string>
+</dict>
+</plist>
